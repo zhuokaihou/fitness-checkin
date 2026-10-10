@@ -1,0 +1,43 @@
+{
+  "fictional": true,
+  "description": "仅供空的演示实例使用，以下数字和食物全为虚构；偏移相对部署者设置的开始日。",
+  "days": [
+    {
+      "offset": 0,
+      "data": {
+        "weight": 68.4,
+        "steps": 6200,
+        "sleep": 7.5,
+        "fatigue": "正常",
+        "breakfast": "完成",
+        "mealsActual": { "breakfast": "【虚构演示】燕麦40g，牛奶250ml" },
+        "actions": {
+          "ex-0-0": { "weight": 12, "sets": 2, "reps": "10 / 9", "done": true }
+        },
+        "workout": "部分",
+        "notes": "【虚构演示】仅展示记录格式。"
+      }
+    },
+    {
+      "offset": 1,
+      "data": {
+        "weight": 68.6,
+        "steps": 5800,
+        "sleep": 7,
+        "fatigue": "正常",
+        "notes": "【虚构演示】未填写的餐食与训练不得补成已完成。"
+      }
+    },
+    {
+      "offset": 2,
+      "data": {
+        "weight": 68.3,
+        "steps": 7100,
+        "sleep": 8,
+        "cardioMinutes": 25,
+        "cardioDistance": 1.8,
+        "notes": "【虚构演示】轻松步行。"
+      }
+    }
+  ]
+}

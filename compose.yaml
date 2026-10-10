@@ -1,0 +1,19 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    environment:
+      DATA_DIR: /data
+      PUBLIC_URL: ${PUBLIC_URL:-http://127.0.0.1:8080}
+      SECURE_COOKIE: ${SECURE_COOKIE:-false}
+      LLM_ALLOWED_HOSTS: ${LLM_ALLOWED_HOSTS:-api.openai.com}
+    ports:
+      - "127.0.0.1:8080:8080"
+    volumes:
+      - fitness_data:/data
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  fitness_data:

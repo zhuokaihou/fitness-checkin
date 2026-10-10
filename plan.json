@@ -1,0 +1,5519 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "week": 5,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "week": 5,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "week": 5,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "week": 5,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "week": 5,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "week": 6,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "week": 6,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "week": 6,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "week": 6,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "week": 6,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "week": 6,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "week": 6,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "week": 7,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "week": 7,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "week": 7,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 46,
+      "week": 7,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 47,
+      "week": 7,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 48,
+      "week": 7,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 49,
+      "week": 7,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 50,
+      "week": 8,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 51,
+      "week": 8,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 52,
+      "week": 8,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 53,
+      "week": 8,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 54,
+      "week": 8,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 55,
+      "week": 8,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 56,
+      "week": 8,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 57,
+      "week": 9,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 58,
+      "week": 9,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 59,
+      "week": 9,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 60,
+      "week": 9,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 61,
+      "week": 9,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 62,
+      "week": 9,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "week": 9,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 64,
+      "week": 10,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 65,
+      "week": 10,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 66,
+      "week": 10,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 67,
+      "week": 10,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 68,
+      "week": 10,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 69,
+      "week": 10,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 70,
+      "week": 10,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 71,
+      "week": 11,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 72,
+      "week": 11,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 73,
+      "week": 11,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 74,
+      "week": 11,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 75,
+      "week": 11,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 76,
+      "week": 11,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 77,
+      "week": 11,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 78,
+      "week": 12,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 79,
+      "week": 12,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 80,
+      "week": 12,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 81,
+      "week": 12,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 82,
+      "week": 12,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "week": 12,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 84,
+      "week": 12,
+      "trainingType": "休息",
+      "actions": [],
+      "minutes": 0,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 85,
+      "week": 13,
+      "trainingType": "胸＋三头",
+      "actions": [
+        {
+          "id": "ex-0-0",
+          "name": "哑铃卧推",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-1",
+          "name": "上斜哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-0-2",
+          "name": "绳索下压",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 86,
+      "week": 13,
+      "trainingType": "背＋二头",
+      "actions": [
+        {
+          "id": "ex-1-0",
+          "name": "高位下拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-1",
+          "name": "坐姿划船",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-1-2",
+          "name": "哑铃弯举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 87,
+      "week": 13,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-2-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 88,
+      "week": 13,
+      "trainingType": "腿",
+      "actions": [
+        {
+          "id": "ex-3-0",
+          "name": "高脚杯深蹲",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-1",
+          "name": "罗马尼亚硬拉",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-3-2",
+          "name": "提踵",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 89,
+      "week": 13,
+      "trainingType": "肩＋核心",
+      "actions": [
+        {
+          "id": "ex-4-0",
+          "name": "坐姿哑铃推举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-1",
+          "name": "侧平举",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        },
+        {
+          "id": "ex-4-2",
+          "name": "平板支撑",
+          "sets": 2,
+          "reps": "8～12 次",
+          "rest": 90,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    },
+    {
+      "day": 90,
+      "week": 13,
+      "trainingType": "有氧",
+      "actions": [
+        {
+          "id": "ex-5-0",
+          "name": "轻松步行",
+          "sets": 2,
+          "reps": "按舒适节奏",
+          "rest": 0,
+          "minutes": 8,
+          "tip": "这是通用示例，请按经验和恢复情况调整；不适时停止。",
+          "alternative": "可替换为熟悉的相近动作"
+        }
+      ],
+      "minutes": 30,
+      "steps": "自行设定",
+      "nutrition": {
+        "kcal": "—",
+        "protein": "—",
+        "fat": "—",
+        "fiber": "—"
+      },
+      "meals": [
+        {
+          "key": "breakfast",
+          "label": "早餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "lunch",
+          "label": "午餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "dinner",
+          "label": "晚餐",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        },
+        {
+          "key": "snack",
+          "label": "加餐（按需）",
+          "name": "自行安排",
+          "detail": "记录实际食物和份量；完成状态不代表吃过示例餐。"
+        }
+      ]
+    }
+  ],
+  "note": "餐食和训练是通用模板，不是个体处方。能量需求未估算。",
+  "rules": [
+    {
+      "title": "看趋势与恢复",
+      "text": "结合多日记录观察变化，缺失数据不当作零；不要根据单日体重波动补偿性节食或加练。"
+    }
+  ],
+  "swaps": [
+    {
+      "kind": "餐食记录",
+      "portion": "按实际份量",
+      "option": "注明食物、烹调方法和大致份量。",
+      "note": "营养估算与称量实测分别标注。",
+      "tip": "未吃加餐可记录在备注，无须为了打卡额外进食。"
+    }
+  ],
+  "sources": []
+}
